@@ -1,0 +1,7 @@
+# node
+node_modules/
+
+#JSON
+
+package-look.json/
+package.json/
