@@ -30,3 +30,14 @@ O projeto contém diferentes exercícios, incluindo:
 
 ```bash
 git clone https://github.com/Kathillen/MenuATS.git
+
+## ⬇️ Para executar
+
+### 1. Abra a pasta
+cd MenuATS
+
+### 2. Instale as dependências
+npm install
+
+### 3. Exdcute o projeto
+node index.js
